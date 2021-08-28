@@ -735,6 +735,11 @@ body.overflow-hidden-header-three {
   z-index: 1000
 }
 
+.titleFBGM{
+  font-size: 32px;
+  color: black;
+}
+
 .nav-button span {
   display: block;
   position: absolute;
