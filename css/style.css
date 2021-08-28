@@ -6499,7 +6499,6 @@ screen and (max-height: 300px) {
 .fraction-slider .slide-bg {
   background-color: #fff;
   height: auto !important;
-  width: 80% !important;
 }
 
 .fraction-slider .home-2-slide-bg {
